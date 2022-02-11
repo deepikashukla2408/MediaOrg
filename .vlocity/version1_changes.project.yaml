@@ -1,0 +1,11 @@
+Name: Version1 Changes
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - CalculationMatrix/RangeAttributePricingMatrix
+    - CalculationProcedure/RangeAttributePricingProcedure
+    - classes/CalcProcPostProcessor.cls
+VlocityTypesToFetch:
+    - CalculationMatrix
+    - CalculationProcedure
+SalesforceTypesToFetch:
+    - ApexClass
